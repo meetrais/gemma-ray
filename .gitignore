@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Ray runtime outputs and local showcase reports
+artifacts/
+ray_results/
